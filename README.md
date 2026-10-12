@@ -1,0 +1,2 @@
+# PlaywrightLinkedin
+Playwright training project
