@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "commonjs",
+        "moduleResolution": "Node",
+        "ignoreDeprecations": "6.0",
+        "sourceMap": true,
+        "outDir": "../tests-out",
+        "types": [
+            "node"
+        ],
+    }
+}
